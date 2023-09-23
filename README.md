@@ -10,6 +10,8 @@
 Первый подход это решение задачи классификации, разбиение видео на кадры, ручная разметка, обучение классификатора.
 Запустить проет по первому можно по ссылке: [https://colab.research.google.com/drive/1i0o74sicnZJbxQU8MPaom3BbzSxCc6qY?usp=sharing
 ](https://colab.research.google.com/drive/11ooC0uXf1_rgXTmYHThdsqpOs1uUFwu7?usp=sharing)
+Веса модели после обучения в файле - efficient_weights.pth
+
 
 
 В работе использовались обезличенные данные от РЖД:
