@@ -13,9 +13,10 @@
 Запустить проет по первому можно по ссылке: [https://colab.research.google.com/drive/1i0o74sicnZJbxQU8MPaom3BbzSxCc6qY?usp=sharing
 ](https://colab.research.google.com/drive/11ooC0uXf1_rgXTmYHThdsqpOs1uUFwu7?usp=sharing)
 Веса модели после обучения в файле - efficient_weights.pth
-Ноутбук с решением - 
+Ноутбук с решением - RZD_hack.ipynb
 
 Второй подход это решение задачи детекции.
+Ноутбук с решением - RZD_hack.ipynb
 
 
 В работе использовались обезличенные данные от РЖД:
