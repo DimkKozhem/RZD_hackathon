@@ -16,7 +16,7 @@
 - Ручная разметка
 - Обучение классификатора
 
-Запустить проект по первому подходу можно по [ссылке](https://colab.research.google.com/drive/11ooC0uXf1_rgXTmYHThdsqpOs1uUFwu7?usp=sharing).
+Запустить проект можно по [ссылке](https://colab.research.google.com/drive/11ooC0uXf1_rgXTmYHThdsqpOs1uUFwu7?usp=sharing).
 
 **Веса модели после обучения в файле:** `efficient_weights.pth`
 
