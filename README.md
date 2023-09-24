@@ -15,6 +15,13 @@
 Веса модели после обучения в файле - efficient_weights.pth
 Ноутбук с решением - RZD_hack.ipynb
 
+Используемые библиотеки в решении:
+#pip install ultralytics
+#pip install opencv-python
+#pip install pandas
+#pip install numpy
+
+
 Второй подход это решение задачи детекции.
 Поиск объектов выполнялся при помощи YOLO8, в определенных областях видеопотока.
 Ноутбук с решением - baseline_yolo8_v2.ipynb
